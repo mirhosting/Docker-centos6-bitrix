@@ -1,1 +1,1 @@
-# Docker-centos6-bitrix
+# Centos6 with bitrix
